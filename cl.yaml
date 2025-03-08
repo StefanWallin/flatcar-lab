@@ -1,0 +1,7 @@
+variant: flatcar
+version: 1.0.0
+passwd:
+  users:
+    - name: core
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC/qy+fwY2bpzldqMAfs7ivEE26BECYspjJthViYnl1T4OFeIIZXna95aSoueX9tmApLWLrlAKS8TFmYPnVJYmlc98Eu9eitmiz5GzFfh5+RnLsMZMfuI+GauVRqyaBM96NQEQsEQjvHg1BbW05v9QHhMyq488hmG7+EewtyA8LdSTZcy42JTKHoZ96RLlJxKfTQVA5wkOu27n9VeSz1YnOiCRAi11ghh01irTHrwgZ4ySuAXlEKY61rKTotvy+A1IjRfBqV9556zAXeTMOVyFQqC2QtULiySKWghUTkQ3Ctm/oMgWpFpakxFiLUAGf6ltxeXQ7BmgH/rOT1enIfczn5ManZR7Bbn6gzwh97ybdCGi3R1Z2/4KUnaDLsZxI9lUGpVlRFe2ufqgQTE3MENYWQShcW3ge7eDlG071ey/ZNb4qemcW5TR77gHqGSiF3EgV2zeriXeTjC4UNgrG52vc2q14rpisx+yK0DXGNSimpqdZpQHHo07C437bIKqqdNE= festiz@carambola.local
